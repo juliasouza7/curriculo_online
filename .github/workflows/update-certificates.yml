@@ -1,0 +1,32 @@
+name: Atualizar certificados
+
+on:
+  push:
+    paths:
+      - 'certificados/**'
+      - 'generate_certificates_json.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-certificates-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Gerar certificados.json
+        run: python generate_certificates_json.py
+
+      - name: Commitar atualização
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Atualiza lista de certificados'
+          file_pattern: certificados.json
