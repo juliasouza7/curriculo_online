@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "5",
+    "instituicao": "",
+    "arquivo": "certificados/5.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Bigdatauniversity Ds0101En Certificado",
+    "instituicao": "",
+    "arquivo": "certificados/BigDataUniversity DS0101EN Certificado.pdf",
+    "tipo": "pdf"
+  },
+  {
     "titulo": "Capacitacao Em Governanca De Dados Turma Out2025 Certificado",
     "instituicao": "",
     "arquivo": "certificados/capacitacao_em_governanca_de_dados_turma_out2025_certificado.pdf",
@@ -27,6 +39,84 @@
     "titulo": "Cert4",
     "instituicao": "",
     "arquivo": "certificados/cert4.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Cert5",
+    "instituicao": "",
+    "arquivo": "certificados/cert5.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Certificado Online Júlia Costa De Souza",
+    "instituicao": "",
+    "arquivo": "certificados/Certificado OnLine JÚLIA COSTA DE SOUZA.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Certificado Online Júlia Costa De Souza2",
+    "instituicao": "",
+    "arquivo": "certificados/Certificado OnLine JÚLIA COSTA DE SOUZA2.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Cognitive Class Bd0101En Certificado",
+    "instituicao": "",
+    "arquivo": "certificados/Cognitive Class BD0101EN Certificado.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Cognitiveclass Py0101En Certificado",
+    "instituicao": "",
+    "arquivo": "certificados/Cognitiveclass PY0101EN Certificado.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Course Completion Certificate",
+    "instituicao": "",
+    "arquivo": "certificados/Course completion certificate.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Coursera W52Kkx3S7G8B",
+    "instituicao": "",
+    "arquivo": "certificados/Coursera W52KKX3S7G8B.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Ibm Bd0111En Certificado",
+    "instituicao": "",
+    "arquivo": "certificados/IBM BD0111EN Certificado.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Uc 294566E9 C800 499F A13E 335Ae9B6196E",
+    "instituicao": "",
+    "arquivo": "certificados/UC-294566e9-c800-499f-a13e-335ae9b6196e.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Uc 49C2597F Bf1D 49Cf A172 458Ce7E1C1E1",
+    "instituicao": "",
+    "arquivo": "certificados/UC-49c2597f-bf1d-49cf-a172-458ce7e1c1e1.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Uc 964A065C E2Cc 4B8D A961 A8Ab04Fa74F4",
+    "instituicao": "",
+    "arquivo": "certificados/UC-964a065c-e2cc-4b8d-a961-a8ab04fa74f4.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Uc B9Db591C Fa30 48D1 A26B B49Df8119Cee",
+    "instituicao": "",
+    "arquivo": "certificados/UC-b9db591c-fa30-48d1-a26b-b49df8119cee.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Uc Dad906Df 6500 4E22 Bc71 8Ef1Bdd94079",
+    "instituicao": "",
+    "arquivo": "certificados/UC-dad906df-6500-4e22-bc71-8ef1bdd94079.pdf",
     "tipo": "pdf"
   }
 ]
