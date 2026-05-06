@@ -4,5 +4,29 @@
     "instituicao": "",
     "arquivo": "certificados/capacitacao_em_governanca_de_dados_turma_out2025_certificado.pdf",
     "tipo": "pdf"
+  },
+  {
+    "titulo": "Cert1",
+    "instituicao": "",
+    "arquivo": "certificados/cert1.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Cert2",
+    "instituicao": "",
+    "arquivo": "certificados/cert2.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Cert3",
+    "instituicao": "",
+    "arquivo": "certificados/cert3.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Cert4",
+    "instituicao": "",
+    "arquivo": "certificados/cert4.pdf",
+    "tipo": "pdf"
   }
 ]
