@@ -30,6 +30,12 @@
     "tipo": "pdf"
   },
   {
+    "titulo": "Databricks Fundamentals",
+    "instituicao": "",
+    "arquivo": "certificados/Databricks Fundamentals.pdf",
+    "tipo": "pdf"
+  },
+  {
     "titulo": "Deep Learning",
     "instituicao": "",
     "arquivo": "certificados/Deep Learning.pdf",
@@ -46,6 +52,12 @@
     "instituicao": "",
     "arquivo": "certificados/GCP Complete Google Data Engineer and Cloud Architect Guide.pdf",
     "tipo": "pdf"
+  },
+  {
+    "titulo": "Generative Ai Fundamentals",
+    "instituicao": "",
+    "arquivo": "certificados/Generative AI Fundamentals.PNG",
+    "tipo": "imagem"
   },
   {
     "titulo": "Getting Started With Application Development",
