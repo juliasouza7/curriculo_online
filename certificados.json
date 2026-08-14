@@ -24,18 +24,6 @@
     "tipo": "pdf"
   },
   {
-    "titulo": "Certificado Governança, Risco E Conformidade (Grc) (1)",
-    "instituicao": "",
-    "arquivo": "certificados/Certificado Governança, Risco e Conformidade (GRC) (1).pdf",
-    "tipo": "pdf"
-  },
-  {
-    "titulo": "Certificado 202699900498833 2026 14 08 2026",
-    "instituicao": "",
-    "arquivo": "certificados/Certificado_202699900498833_2026_14_08_2026.pdf",
-    "tipo": "pdf"
-  },
-  {
     "titulo": "Data Observability And Data Quality Testing Certification",
     "instituicao": "",
     "arquivo": "certificados/Data Observability and Data Quality Testing Certification.pdf",
@@ -108,6 +96,12 @@
     "tipo": "pdf"
   },
   {
+    "titulo": "Governança, Risco E Conformidade (Grc)",
+    "instituicao": "",
+    "arquivo": "certificados/Governança, Risco e Conformidade (GRC).pdf",
+    "tipo": "pdf"
+  },
+  {
     "titulo": "Hadoop 101",
     "instituicao": "",
     "arquivo": "certificados/Hadoop 101.pdf",
@@ -177,6 +171,12 @@
     "titulo": "Python 101 For Data Science",
     "instituicao": "",
     "arquivo": "certificados/Python 101 for Data Science.pdf",
+    "tipo": "pdf"
+  },
+  {
+    "titulo": "Segurança Da Informação E Lgpd",
+    "instituicao": "",
+    "arquivo": "certificados/SEGURANÇA DA INFORMAÇÃO E LGPD.pdf",
     "tipo": "pdf"
   },
   {
